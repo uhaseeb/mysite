@@ -12,6 +12,7 @@
 <body>
     <div class="container">
     <ul class="nav">
+    <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
 <li class="nav-item"><a class="nav-link" href="function.php">Functions</a></li>
 <li class="nav-item"><a class="nav-link" href="datetime.php">Date and Time</a></li>
 <li class="nav-item"><a class="nav-link" href="practice.php">Practice</a></li>
